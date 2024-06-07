@@ -9,7 +9,7 @@
         </style>
     </head>
     <body>
-        <center><h1>Databse uts_312310013</h1></center>
+        <center><h1>Database uts_312310013</h1></center>
         <h3>Tabel Anggota</h3>
         <table>
             <thead>
